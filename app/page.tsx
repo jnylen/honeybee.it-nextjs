@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center text-center justify-center mx-4">
       <h2 className="text-3xl mb-10 font-bold">Honeybee.it has closed down</h2>
       <p>For the past 15 years I have been running Honeybee.it.</p>
-      <p>Now it's time to say goodbye and go do something else.</p>
+      <p>Now it&apos;s time to say goodbye and go do something else.</p>
       <div className="mt-10">
         <p>If you are still in need of data you can try out one of the providers below:</p>
         <ul>
