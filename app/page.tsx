@@ -7,7 +7,7 @@ export default function Home() {
       <p>For the past 15 years I have been running Honeybee.it.</p>
       <p>Now it&apos;s time to say goodbye and go do something else.</p>
       <div className="mt-10">
-        <p>If you are still in need of data you can try out one of the providers below:</p>
+        <p className="font-bold">If you are still in need of data you can try out one of the providers below:</p>
         <ul>
           <li><a href="https://www.schedulesdirect.org/" className="underline" target="_blank">Schedules Direct</a> - Private users</li>
           <li><a href="https://tvprofil.net/xmltv/" className="underline" target="_blank">TV Profil</a> - Private users</li>
